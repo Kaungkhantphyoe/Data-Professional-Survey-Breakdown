@@ -26,8 +26,4 @@
 1. ဒီ Repository ထဲမှာ ရှိတဲ့ `.pbix` file ကို Download ဆွဲပါ။
 2. မိမိ Computer ထဲရှိ **Power BI Desktop** ဖြင့် ဖွင့်လှစ်၍ Interactive ကြည့်ရှုနိုင်ပါတယ်။
 
----
-## 📞 Contact
-Project နဲ့ ပတ်သက်ပြီး ဆွေးနွေးလိုပါက -
-*   [LinkedIn Profile Name](your_linkedin_profile_url)
-*   [Your Email Address]
+
