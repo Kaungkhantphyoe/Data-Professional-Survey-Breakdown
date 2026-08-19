@@ -3,10 +3,6 @@
 ## 📌 Project Overview
 ဒီ Project ကတော့ [Survey Source Name, e.g., Kaggle/LinkedIn, if known] က ရရှိတဲ့ Survey Data တွေကို သုံးပြီး Data Industry ထဲမှာ ရှိတဲ့ ပညာရှင်တွေရဲ့ အခြေအနေအရပ်ရပ်ကို သုံးသပ်ပြထားတဲ့ Power BI Dashboard ဖြစ်ပါတယ်။ ဒီ analysis ဟာ Data Analyst, Data Scientist, Data Engineer, စတဲ့ မတူညီတဲ့ Job Title တွေအလိုက် လစာ၊ အသုံးပြုတဲ့ Programming Language, နဲ့ အလုပ်အကိုင်အပေါ် ကျေနပ်မှု စတဲ့ Insight တွေကို ဖော်ထုတ်ပြသထားပါတယ်။
 
-## 🖼️ Dashboard Preview
-![Dashboard Preview](your_dashboard_screenshot_image_link.png)
-*(မှတ်ချက် - ဒီနေရာမှာ မိမိရဲ့ Dashboard Screenshot ဓာတ်ပုံ Link ကို အစားထိုးပါ)*
-
 ## 🎯 Key Business Questions & Insights
 ဒီ Dashboard ကနေ အောက်ပါ မေးခွန်းတွေကို အဖြေရှာပေးနိုင်ပါတယ် -
 
